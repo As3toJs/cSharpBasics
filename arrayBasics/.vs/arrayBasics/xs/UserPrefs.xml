@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{AAE5BA5B-4C9F-474E-9636-7CB4C292174A}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="arrayBasics/InvalidNumbers.cs">
+    <Files>
+      <File FileName="arrayBasics/Program.cs" Line="13" Column="51" />
+      <File FileName="arrayBasics/SorUniqueNumbers.cs" Line="6" Column="34" />
+      <File FileName="arrayBasics/UniqueNumbers.cs" Line="10" Column="43" />
+      <File FileName="arrayBasics/InvalidNumbers.cs" Line="8" Column="13" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.arrayBasics PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,6 @@
+/Users/PK/Documents/projects/cSharpGit/cSharpBasics/cSharpBasics/bin/Debug/cSharpBasics.exe
+/Users/PK/Documents/projects/cSharpGit/cSharpBasics/cSharpBasics/bin/Debug/cSharpBasics.pdb
+/Users/PK/Documents/projects/cSharpGit/cSharpBasics/cSharpBasics/obj/x86/Debug/cSharpBasics.csprojAssemblyReference.cache
+/Users/PK/Documents/projects/cSharpGit/cSharpBasics/cSharpBasics/obj/x86/Debug/cSharpBasics.csproj.CoreCompileInputs.cache
+/Users/PK/Documents/projects/cSharpGit/cSharpBasics/cSharpBasics/obj/x86/Debug/cSharpBasics.exe
+/Users/PK/Documents/projects/cSharpGit/cSharpBasics/cSharpBasics/obj/x86/Debug/cSharpBasics.pdb

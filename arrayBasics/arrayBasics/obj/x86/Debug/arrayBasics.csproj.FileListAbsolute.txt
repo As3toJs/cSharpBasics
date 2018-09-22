@@ -1,0 +1,6 @@
+/Users/PK/Documents/projects/cSharpGit/cSharpBasics/arrayBasics/arrayBasics/bin/Debug/arrayBasics.exe
+/Users/PK/Documents/projects/cSharpGit/cSharpBasics/arrayBasics/arrayBasics/bin/Debug/arrayBasics.pdb
+/Users/PK/Documents/projects/cSharpGit/cSharpBasics/arrayBasics/arrayBasics/obj/x86/Debug/arrayBasics.csprojAssemblyReference.cache
+/Users/PK/Documents/projects/cSharpGit/cSharpBasics/arrayBasics/arrayBasics/obj/x86/Debug/arrayBasics.csproj.CoreCompileInputs.cache
+/Users/PK/Documents/projects/cSharpGit/cSharpBasics/arrayBasics/arrayBasics/obj/x86/Debug/arrayBasics.exe
+/Users/PK/Documents/projects/cSharpGit/cSharpBasics/arrayBasics/arrayBasics/obj/x86/Debug/arrayBasics.pdb
