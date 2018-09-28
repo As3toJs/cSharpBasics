@@ -1,0 +1,6 @@
+/Users/PK/Documents/projects/cSharpGit/cSharpBasics/FirstWeek/FirstWeek/bin/Debug/FirstWeek.exe
+/Users/PK/Documents/projects/cSharpGit/cSharpBasics/FirstWeek/FirstWeek/bin/Debug/FirstWeek.pdb
+/Users/PK/Documents/projects/cSharpGit/cSharpBasics/FirstWeek/FirstWeek/obj/x86/Debug/FirstWeek.csprojAssemblyReference.cache
+/Users/PK/Documents/projects/cSharpGit/cSharpBasics/FirstWeek/FirstWeek/obj/x86/Debug/FirstWeek.csproj.CoreCompileInputs.cache
+/Users/PK/Documents/projects/cSharpGit/cSharpBasics/FirstWeek/FirstWeek/obj/x86/Debug/FirstWeek.exe
+/Users/PK/Documents/projects/cSharpGit/cSharpBasics/FirstWeek/FirstWeek/obj/x86/Debug/FirstWeek.pdb
