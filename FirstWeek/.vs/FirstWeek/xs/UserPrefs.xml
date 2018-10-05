@@ -1,9 +1,9 @@
 ﻿<Properties StartupConfiguration="{031298EA-58A1-4456-B445-B244D6A61DA6}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="FirstWeek/Properties/Addition.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="FirstWeek/Program.cs">
     <Files>
-      <File FileName="FirstWeek/Program.cs" Line="22" Column="24" />
-      <File FileName="FirstWeek/Fabonacci.cs" Line="4" Column="20" />
-      <File FileName="FirstWeek/Properties/Addition.cs" Line="6" Column="31" />
+      <File FileName="FirstWeek/Program.cs" Line="30" Column="42" />
+      <File FileName="FirstWeek/Fabonacci.cs" Line="5" Column="2" />
+      <File FileName="FirstWeek/Addition.cs" Line="2" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.ItemProperties.FirstWeek PreferredExecutionTarget="MonoDevelop.Default" />
