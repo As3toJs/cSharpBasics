@@ -1,0 +1,3 @@
+/Users/PK/Documents/projects/cSharpGit/cSharpBasics/SecondWeek/SecondWeek/obj/x86/Release/SecondWeek.csproj.CoreCompileInputs.cache
+/Users/PK/Documents/projects/cSharpGit/cSharpBasics/SecondWeek/SecondWeek/bin/Release/SecondWeek.exe
+/Users/PK/Documents/projects/cSharpGit/cSharpBasics/SecondWeek/SecondWeek/obj/x86/Release/SecondWeek.exe

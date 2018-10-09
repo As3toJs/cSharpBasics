@@ -1,0 +1,3 @@
+/Users/PK/Documents/projects/cSharpGit/cSharpBasics/SecondWeek/AnimalInheritance/bin/Release/AnimalInheritance.exe
+/Users/PK/Documents/projects/cSharpGit/cSharpBasics/SecondWeek/AnimalInheritance/obj/x86/Release/AnimalInheritance.csproj.CoreCompileInputs.cache
+/Users/PK/Documents/projects/cSharpGit/cSharpBasics/SecondWeek/AnimalInheritance/obj/x86/Release/AnimalInheritance.exe

@@ -1,0 +1,3 @@
+/Users/PK/Documents/projects/cSharpGit/cSharpBasics/SecondWeek/InterfaceExample/bin/Release/InterfaceExample.exe
+/Users/PK/Documents/projects/cSharpGit/cSharpBasics/SecondWeek/InterfaceExample/obj/x86/Release/InterfaceExample.csproj.CoreCompileInputs.cache
+/Users/PK/Documents/projects/cSharpGit/cSharpBasics/SecondWeek/InterfaceExample/obj/x86/Release/InterfaceExample.exe
