@@ -1,0 +1,2 @@
+/Users/PK/Documents/projects/cSharpGit/cSharpBasics/SecondWeek/SecondWeek/obj/x86/Debug/SecondWeek.csprojAssemblyReference.cache
+/Users/PK/Documents/projects/cSharpGit/cSharpBasics/SecondWeek/SecondWeek/obj/x86/Debug/SecondWeek.csproj.CoreCompileInputs.cache

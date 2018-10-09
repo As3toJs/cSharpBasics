@@ -1,12 +1,20 @@
-using System;
-
 namespace SecondWeek
 {
     class MainClass
     {
         public static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            var cat = new Cat();
+            cat.Sound = "Meaou";
+            cat.MakeANoise();
+
+            var dog = new Dog("woof-woof");
+            dog.MakeANoise();
+
+            var car = new Car();
+            car.Name = "BMW";
+            car.Sound = "grrrr";
+            car.MakeANoise();
         }
     }
 }
